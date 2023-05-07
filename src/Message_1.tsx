@@ -1,6 +1,6 @@
 function Message1() {
   //JSX: JavaScript XML
-  return <h1>Hello World</h1>;
+  return <h1>Hello World...welcome to React</h1>;
 }
 
 export default Message1
